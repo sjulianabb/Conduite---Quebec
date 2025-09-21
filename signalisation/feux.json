@@ -24,5 +24,5 @@
 {
   "theme": "Orientation des feux de circulation au Québec",
   "explication_pro": "👉 Au Québec, les feux de circulation peuvent être installés en orientation verticale ou horizontale, selon la visibilité.\n\nVertical (classique) : rouge en haut, jaune au milieu, vert en bas.\n\nHorizontal : rouge à gauche (et parfois répété à droite), jaune au centre, vert à droite.\n🔴 = arrêt obligatoire.\n🟡 = avertissement (prépare à l’arrêt).\n🟢 = passage autorisé.\n\nLe double 🔴 est utilisé pour assurer la visibilité dans les intersections larges, notamment quand il y a plusieurs voies de circulation."
- "image": "https://drive.google.com/uc?id=19huCcqyQ56a8n9zX9DupePwBZ_apsNCD"
+ "image": "https://raw.githubusercontent.com/sjulianabb/Conduite---Quebec/refs/heads/main/images/feux_horizontal.jpg"
 }
