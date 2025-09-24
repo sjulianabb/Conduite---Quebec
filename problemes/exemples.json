@@ -1,1 +1,26 @@
+{
+  "exemples": [
+    {
+      "situation": "🔴 Feu rouge clignotant",
+      "explication": "Le conducteur doit s’arrêter complètement 🛑, céder le passage 🚦 et avancer seulement quand la voie est libre et sécuritaire ✅.",
+      "scénario": "Tu es en voiture 🚗 et tu arrives à un feu rouge clignotant. Devant toi, il y a une intersection (👦 11 ans: c’est le croisement de deux routes, comme un '+' sur la route ➕). Ta voiture est sur une chaussée (👦 11 ans: c’est la partie de la route où roulent les véhicules 🛣️). Sur l’autre chaussée, une autre voiture 🚙 approche pour traverser.",
+      "étapes": [
+        "1️⃣ Tu immobilises ton véhicule 🛑 (tu t’arrêtes complètement).",
+        "2️⃣ Tu cèdes le passage 🚦 → tu laisses passer la voiture qui circule sur l’autre chaussée.",
+        "3️⃣ Quand la voie est libre et sécuritaire ✅, tu peux avancer."
+      ],
+      "image_mentale": "Imagine un feu rouge clignotant juste avant une croix de routes ➕. Tu t’arrêtes comme à un panneau STOP 🛑, tu regardes autour 👀 et tu laisses passer les autres avant d’avancer.",
+    {
+      "situation": "🟡 Feu jaune clignotant",
+      "explication": "Le conducteur doit ralentir 🐢, vérifier s’il y a des piétons 🚶‍♀️ déjà engagés et leur céder le passage. Si personne ne traverse, il peut continuer doucement 🚗.",
+      "scénario": "Imagine que tu roules sur une petite route de campagne 🌾. Devant toi, il y a un passage piéton 🚶‍♀️ avec un feu jaune qui clignote ✨. Tu dois ralentir et observer 👀. Si un piéton traverse, tu t’arrêtes et tu le laisses passer ✅. S’il n’y a personne, tu poursuis calmement.",
+      "étapes": [
+        "1️⃣ Ralentir la vitesse 🐢.",
+        "2️⃣ Vérifier si un piéton est engagé sur le passage 🚶‍♀️.",
+        "3️⃣ Si oui → s’arrêter et le laisser passer ✅.",
+        "4️⃣ Si non → continuer doucement 🚗."
+      ],
+      "image_mentale": "Pense à une lampe jaune ✨ qui clignote près d’un passage piéton 🚶‍♀️. C’est comme un avertissement qui dit: 'Ouvre les yeux 👀 et sois prêt à t’arrêter'.",
+    },
+
 
