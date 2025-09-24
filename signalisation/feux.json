@@ -41,3 +41,8 @@
   "texte_officiel": "La flèche verte clignotante (👦 11 ans: « clignotante » = qui clignote, qui s’allume et s’éteint rapidement ✨ → en español: parpadeante) ou non signale (👦 11 ans: « signale » = indique, te montre quelque chose 👉) au conducteur d’un véhicule routier (👦 11 ans: une voiture ou tout véhicule qui circule sur la route 🚗🛣️) ou d’une bicyclette qu’il doit circuler (👦 11 ans: « circuler » = avancer ou rouler 🚲🚗) dans le sens indiqué (👦 11 ans: la direction que montre la flèche ➡️⬅️⬆️), en respectant les règles de priorité de passage (👦 11 ans: « priorité de passage » = qui passe en premier 🚦 → en español: derecho de paso) qui prévalent (👦 11 ans: « prévalent » = qui dominent, qui s’appliquent avant les autres 🔝) devant un feu vert.",
   "image": "https://raw.githubusercontent.com/sjulianabb/Conduite---Quebec/refs/heads/main/images/fl%C3%A8che_verte.jpg"
 }
+{
+  "theme": "Feux clignotants",
+  "texte_officiel": "Les feux clignotants (👦 11 ans: « clignotants » = qui s’allument et s’éteignent rapidement ✨ → en español: parpadeantes), jaunes ou rouges, sont utilisés comme signalisation additionnelle (👦 11 ans: « signalisation additionnelle » = panneau ou lumière en plus, qui ajoute une règle spéciale 🚦 ➕ → en español: señalización adicional) pour souligner (👦 11 ans: « souligner » = mettre en évidence, attirer l’attention 👀) un point de conflit important (👦 11 ans: « point de conflit » = endroit dangereux où voitures, vélos ou piétons peuvent se croiser 🚗🚲🚶❗).",
+  "image": ""
+}
