@@ -31,3 +31,8 @@
   "texte_officiel": "La flèche rouge signale (👦 11 ans: « signale » = indique, te montre quelque chose 👉) au conducteur l’interdiction (👦 11 ans: « interdiction » = tu n’as pas le droit, c’est interdit ❌) de circuler dans le sens indiqué (👦 11 ans: « sens indiqué » = la direction que montre la flèche ➡️⬅️⬆️) par la flèche tant que (👦 11 ans: « tant que » = pendant que, aussi longtemps que ⏳ → en espagnol: mientras que la luz está roja, no puedes avancer) le feu est rouge 🛑."
    "image": "https://raw.githubusercontent.com/sjulianabb/Conduite---Quebec/refs/heads/main/images/fl%C3%A8che_rouge.jpg"
 }
+{
+  "theme": "La flèche jaune",
+  "texte_officiel": "La flèche jaune a la même fonction que le feu jaune (👦 11 ans: cela veut dire qu’elle avertit que le rouge arrive bientôt ⏳🛑), mais elle précise (👦 11 ans: « précise » = explique mieux, rend plus clair ✍️) le sens de la circulation (👦 11 ans: « circulation » = le mouvement des voitures, vélos et piétons sur la route 🚗🚲🚶, todo lo que circula en la vía, el movimiento organisé de los véhicules 🚗, bicicletas 🚲, peatones 🚶).",
+  "image": "https://raw.githubusercontent.com/sjulianabb/Conduite---Quebec/refs/heads/main/images/fl%C3%A8che_jaune.jpg"
+}
