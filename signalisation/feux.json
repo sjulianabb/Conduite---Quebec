@@ -26,3 +26,8 @@
   "explication_pro": "👉 Au Québec, les feux de circulation peuvent être installés en orientation verticale ou horizontale, selon la visibilité.\n\nVertical (classique) : rouge en haut, jaune au milieu, vert en bas.\n\nHorizontal : rouge à gauche (et parfois répété à droite), jaune au centre, vert à droite.\n🔴 = arrêt obligatoire.\n🟡 = avertissement (prépare à l’arrêt).\n🟢 = passage autorisé.\n\nLe double 🔴 est utilisé pour assurer la visibilité dans les intersections larges, notamment quand il y a plusieurs voies de circulation."
  "image": "https://raw.githubusercontent.com/sjulianabb/Conduite---Quebec/refs/heads/main/images/feux_formes.jpg"
 }
+{
+  "theme": "La flèche rouge",
+  "texte_officiel": "La flèche rouge signale (👦 11 ans: « signale » = indique, te montre quelque chose 👉) au conducteur l’interdiction (👦 11 ans: « interdiction » = tu n’as pas le droit, c’est interdit ❌) de circuler dans le sens indiqué (👦 11 ans: « sens indiqué » = la direction que montre la flèche ➡️⬅️⬆️) par la flèche tant que (👦 11 ans: « tant que » = pendant que, aussi longtemps que ⏳ → en espagnol: mientras que la luz está roja, no puedes avancer) le feu est rouge 🛑."
+   "image": "https://raw.githubusercontent.com/sjulianabb/Conduite---Quebec/refs/heads/main/images/fl%C3%A8che_rouge.jpg"
+}
